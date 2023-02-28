@@ -1,0 +1,28 @@
+user:id,context:timestamp,SuperPower:label,blue,gold,green,int_ext:label,orange,p_color:label,s_color:label,sport:label,zodiac:label
+lausd-60075,11/16/21 10:28,Fly,19,12,8,Introvert,11,Blue,Gold,No,Scorpio
+lausd-65196,11/16/21 10:24,Telepathy (read minds),19,14,8,Introvert,9,Blue,Gold,No,Pisces
+lausd-90742,11/16/21 10:20,Invisibility,16,5,17,Introvert,12,Green,Blue,Yes,Scorpio
+lausd-76905,11/16/21 10:18,Telepathy (read minds),19,7,8,Extrovert,16,Blue,Orange,No,Leo
+lausd-19602,11/16/21 10:17,Fly,16,14,9,Introvert,9,Blue,Gold,No,Aries
+lausd-32489,11/16/21 10:17,Invisibility,18,11,10,Introvert,11,Blue,Gold,Yes,Taurus
+lausd-10511,11/16/21 10:13,Telepathy (read minds),6,18,11,Extrovert,15,Gold,Orange,Yes,Aries
+lausd-91940,11/16/21 10:12,Telepathy (read minds),18,17,6,Introvert,9,Orange,Gold,Yes,Capricorn
+lausd-46500,11/16/21 10:01,Telepathy (read minds),8,9,18,Introvert,15,Green,Orange,No,Capricorn
+lausd-60315,11/16/21 9:45,Fly,17,15,10,Introvert,8,Blue,Gold,No,Cancer
+lausd-48255,11/16/21 9:44,Freeze Time,13,5,12,Introvert,20,Orange,Blue,Yes,Aries
+lausd-96132,11/12/21 10:16,Freeze Time,18,11,11,Introvert,8,Blue,Green,No,Virgo
+lausd-47286,11/12/21 10:16,Invisibility,17,12,8,Extrovert,13,Blue,Orange,Yes,Sagittarius
+lausd-89032,11/12/21 10:15,Telepathy (read minds),17,14,11,Introvert,8,Blue,Gold,No,Cancer
+lausd-90449,11/12/21 10:13,Freeze Time,7,12,20,Introvert,11,Green,Gold,Yes,Capricorn
+lausd-35676,11/12/21 9:51,Freeze Time,17,10,11,Extrovert,12,Blue,Orange,Yes,Taurus
+lausd-93906,11/12/21 9:43,Fly,20,14,6,Extrovert,10,Blue,Gold,No,Scorpio
+lausd-07937,11/12/21 9:41,Fly,15,8,8,Extrovert,19,Orange,Blue,No,Aries
+lausd-54749,11/12/21 9:39,Fly,15,12,14,Extrovert,9,Blue,Green,Yes,Pisces
+lausd-10579,11/12/21 9:39,Fly,15,18,9,Introvert,8,Gold,Blue,No,Libra
+lausd-52352,11/12/21 9:38,Telepathy (read minds),14,16,11,Extrovert,9,Gold,Blue,Yes,Libra
+lausd-19214,11/12/21 9:38,Fly,10,8,18,Introvert,14,Green,Orange,Yes,Aquarius
+lausd-71378,11/12/21 9:37,Freeze Time,16,5,15,Extrovert,14,Blue,Green,Yes,Aries
+lausd-55184,11/12/21 9:35,Telepathy (read minds),15,9,20,Introvert,6,Green,Blue,Yes,Libra
+lausd-25678,11/12/21 9:35,Telepathy (read minds),15,13,17,Introvert,5,Green,Blue,No,Virgo
+lausd-19947,11/12/21 9:34,Freeze Time,10,15,12,Extrovert,13,Gold,Orange,Yes,Scorpio
+lausd-17844,11/11/21 22:11,Fly,14,11,15,Introvert,10,Green,Blue,Yes,Libra

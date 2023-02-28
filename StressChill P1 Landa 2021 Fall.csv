@@ -1,0 +1,77 @@
+user:id,context:timestamp,howmanypeople,photo,stress,where:label,who:label,why
+lausd-96132,3/1/22 9:24,7,SKIPPED,0,public place,family,fun
+lausd-13719,3/1/22 9:24,3,SKIPPED,3,school,friends,To get an education :)
+lausd-96132,3/1/22 9:23,0,SKIPPED,3,home,alone,end of school day doing homework
+lausd-96132,3/1/22 9:22,15,SKIPPED,2,other's house,family,birthday
+lausd-76905,3/1/22 9:21,3,SKIPPED,2,school,friends,forced
+lausd-52352,3/1/22 9:21,33,cb5da834-a443-4747-816e-9eff206a7067,2,school,classmates,learn
+lausd-93906,3/1/22 9:21,35,SKIPPED,2,school,teacher and classmates,education
+lausd-96132,3/1/22 9:20,1,SKIPPED,1,school,teacher and classmates,Education 
+lausd-47286,3/1/22 9:20,2,178f634f-37d3-4110-bf8c-dd5c206a7067,1,school,friends,School
+lausd-90742,3/1/22 9:20,33,7313dcdb-984f-4baa-bfc5-7017206a7067,3,school,teacher and classmates,mandatory 
+lausd-48255,3/1/22 9:20,3,SKIPPED,1,commuting,family,school
+lausd-10511,3/1/22 9:20,25,f77ee2cb-47e3-4d29-8e2b-1efd206a7067,3,school,classmates,education 
+lausd-65196,3/1/22 9:19,31,SKIPPED,2,school,teacher and classmates,school
+lausd-48255,3/1/22 9:19,150,SKIPPED,1,public place,strangers,grcoery 
+lausd-60578,3/1/22 9:19,31,SKIPPED,2,school,teacher and classmates,Required
+lausd-48255,3/1/22 9:18,100,SKIPPED,1,public place,strangers,church
+lausd-90449,3/1/22 9:18,30,SKIPPED,2,school,teacher and classmates,required
+lausd-55184,3/1/22 9:18,25,SKIPPED,1,school,teacher and classmates,learning
+lausd-19947,3/1/22 9:18,30,SKIPPED,2,school,teacher and classmates,IDS
+lausd-54749,3/1/22 9:15,27,6249e4e7-a084-4550-a274-10ee206a7067,2,school,teacher and classmates,learn
+lausd-71378,3/1/22 9:15,28,72b8c13e-eafe-47f5-87b6-db38206a7067,1,school,teacher and classmates,school
+lausd-48255,3/1/22 9:05,30,SKIPPED,2,school,teacher and classmates,graduation
+lausd-54749,2/28/22 9:02,0,SKIPPED,0,home,alone,live
+lausd-54749,2/27/22 9:01,2,SKIPPED,1,home,family,live
+lausd-17844,2/26/22 14:53,3,5e585d7b-14d6-4fd4-b70e-88d3206a7067,2,public place,friends and family,Family
+lausd-54749,2/26/22 9:00,0,SKIPPED,0,home,alone,sleep 
+lausd-17844,2/25/22 12:23,17,3900b5b2-745d-4238-a2ed-dfb9206a7067,1,school,classmates,Culture
+lausd-71378,2/25/22 11:54,15,b20cbbdd-406b-46c9-b3d9-72ac206a7067,1,school,teacher and classmates,school
+lausd-99727,2/25/22 10:33,3,SKIPPED,2,school,classmates,So my parents don't go to jail.
+lausd-60315,2/25/22 10:01,34,SKIPPED,3,school,teacher and classmates,I have to be here to get my education.
+lausd-48255,2/25/22 9:56,30,SKIPPED,1,school,teacher and classmates,graduation
+lausd-93906,2/25/22 9:53,35,SKIPPED,1,school,teacher and classmates,education
+lausd-90742,2/25/22 9:52,32,b4c516cf-e34d-4c28-9231-dd37206a7067,3,school,teacher and classmates,education
+lausd-32489,2/25/22 9:49,2,d3bda8d0-95ed-475f-b3d0-4013206a7067,1,school,friends,school
+lausd-90449,2/25/22 9:48,30,SKIPPED,2,school,teacher and classmates,required
+lausd-07937,2/25/22 9:46,2,SKIPPED,3,school,friends,forced
+lausd-10579,2/25/22 9:46,2,SKIPPED,2,school,friends,law
+lausd-89032,2/25/22 9:37,30,SKIPPED,1,school,teacher and classmates,idk
+lausd-10511,2/25/22 9:35,25,df9c443e-1eeb-4663-ba1d-f314206a7067,1,school,classmates,Education 
+lausd-10511,2/25/22 9:35,25,SKIPPED,1,school,classmates,Education 
+lausd-54749,2/25/22 9:33,32,SKIPPED,1,school,teacher and classmates,learn
+lausd-19947,2/25/22 9:26,32,SKIPPED,2,school,teacher and classmates,education
+lausd-52352,2/25/22 9:12,33,SKIPPED,2,school,classmates,education
+lausd-19947,2/23/22 10:09,6,SKIPPED,2,other's house,friends,birthday
+lausd-19947,2/23/22 10:09,2,SKIPPED,2,home,family,sick
+lausd-19947,2/23/22 10:08,8,SKIPPED,1,other's house,friends,birthday
+lausd-19947,2/23/22 10:08,3,SKIPPED,2,public place,family,toursit
+lausd-19947,2/23/22 10:07,32,SKIPPED,1,school,teacher and classmates,learn
+lausd-71378,2/23/22 9:48,34,571ea058-2c87-4316-8507-58a3206a7067,2,school,teacher and classmates,school
+lausd-54749,2/23/22 9:47,33,42e38e37-6c2c-4f26-add8-062c206a7067,2,school,classmates,learn
+lausd-60578,2/23/22 9:47,33,SKIPPED,1,school,teacher and classmates,Law
+lausd-19214,2/23/22 9:45,25,38b75007-03a7-4d9f-aab6-eaad206a7067,1,school,teacher and classmates,legalobligation 
+lausd-55184,2/23/22 9:45,25,c3d22887-2f7c-4281-ac8a-fbd5206a7067,1,school,teacher and classmates,education
+lausd-25678,2/23/22 9:44,6,95eb6caf-e328-4fab-bed3-92a9206a7067,2,school,teacher and classmates,Education
+lausd-52352,2/23/22 9:43,25,SKIPPED,3,school,classmates,education
+lausd-54749,2/21/22 9:01,6,bfdf915e-adf0-483b-a1fc-0afa206a7067,0,other's house,family,sleepover
+lausd-17844,2/18/22 12:23,19,8cd03148-cd53-41ae-b69c-ef7b206a7067,2,school,classmates,Club
+lausd-54749,2/18/22 9:25,3,1fb983e5-b90a-447b-a44d-0ce6206a7067,3,school,teacher and classmates,learn
+lausd-91940,2/15/22 11:32,33,8ee2444e-eeea-45ea-904e-7e0c206a7067,1,school,teacher and classmates,education
+lausd-17844,2/13/22 12:05,0,e294d539-4cb1-4779-9cca-9e3c206a7067,2,public place,alone,Potluck 
+lausd-17844,2/11/22 12:21,15,f3ca7f89-ea70-4889-886c-c83f206a7067,1,school,classmates,Club
+lausd-17844,2/11/22 8:34,13,bfb73fe3-8f7c-4e7b-93cf-8854206a7067,2,school,classmates,Friday 
+lausd-19947,2/10/22 9:51,20,SKIPPED,2,school,teacher and classmates,Education
+lausd-93906,2/10/22 9:43,2,SKIPPED,1,school,teacher and classmates,education
+lausd-10579,2/10/22 9:43,1,SKIPPED,1,school,friends,law
+lausd-47286,2/10/22 9:42,1,d279c434-dd71-4540-a1eb-3a45206a7067,0,school,friends,School
+lausd-89032,2/10/22 9:34,32,SKIPPED,2,school,teacher and classmates,idk
+lausd-10511,2/10/22 9:31,25,904e048c-3160-4d20-a22e-917e206a7067,3,school,classmates,learn
+lausd-52352,2/10/22 9:31,25,SKIPPED,1,school,teacher and classmates,education
+lausd-96132,2/10/22 9:27,0,SKIPPED,2,school,teacher and classmates,because I have to...
+lausd-55184,2/10/22 9:26,25,271479ac-0e94-4f72-a8e6-f26e206a7067,1,school,classmates,education 
+lausd-19214,2/10/22 9:26,25,d5d4c28a-eb7f-4dcd-a88f-8d7d206a7067,1,school,classmates,legal obligation
+lausd-25678,2/10/22 9:24,8,e786915f-6fb3-4541-a77a-a21d206a7067,1,school,teacher and classmates,education 
+lausd-32489,2/10/22 9:23,28,SKIPPED,3,school,teacher and classmates,force
+lausd-19602,2/10/22 9:23,27,1eb21e7d-4723-494f-8df5-0174206a7067,0,school,teacher and classmates,school
+lausd-67024,8/31/21 10:29,29,24978266-ec40-4506-82e4-fd65206a7067,2,school,teacher and classmates,Learning
